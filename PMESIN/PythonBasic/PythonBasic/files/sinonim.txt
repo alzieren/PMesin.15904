@@ -1,0 +1,4 @@
+besar:luas,lebar,lapang
+kecil:mini,sempit,imut
+cepat:kilat,gesit,laju
+lambat:pelan,lemot,perlahan
